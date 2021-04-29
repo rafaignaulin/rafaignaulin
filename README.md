@@ -1,7 +1,7 @@
 ## Eu sou Rafael Ignaulin
-<a href="https://github.com/rafaignaulin
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaignaulin&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaignaulin&layout=compact&langs_count=8&theme=dark%22/%3E
+<a href="https://github.com/rafaignaulin"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaignaulin&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaignaulin&layout=compact&langs_count=8&theme=dark%22/%3E/>
 <div style="display: inline_block"><br>
 </div>
 
